@@ -9,6 +9,7 @@ I am 25 years old and a computer science major at UTSA.
 [![Gaming](https://img.shields.io/badge/Gaming-purple.svg)](https://shields.io/)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 [![Literature](https://img.shields.io/badge/Literature-green.svg)](https://shields.io/)
+[![Programming](https://img.shields.io/badge/Programming-red.svg)](https://shields.io/)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/JFisher2001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jordon-fisher-82920b386)
